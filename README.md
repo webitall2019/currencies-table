@@ -1,3 +1,8 @@
+
+Hello everyone,
+I want to ask you not to be very strict with my Typescript and tests, I have not had much practical experience with them.
+The tests described the most trivial ones, since testing redux is problematic.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
